@@ -58,9 +58,13 @@ color: #fff;
     padding: 20px 10px;
     border-radius: 20px;
   }
+
+  *:focus {
+    outline: none;
+}
   
   .form #form-search {
-    padding: 0 8px;
+    padding: 0 12px;
   }
 
 /* Button CSS */
